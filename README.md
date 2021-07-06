@@ -8,10 +8,10 @@ kosong. kemudian ikuti oleh pemain lain dengan menyambungkan kartu domino
 dengan nilai yang bersesuaian sehingga membentuk suatu pola yang tak terputus 
 hingga kartu domino habis.
 
-Project ini dibuat untuk menyelesaikan tugas besar dari mata kuliah yang saya.
-Memilih tema ini untuk tugas besar ini karena menurut saya permainan domino sangat umum dan banyak digemari oleh seluruh kalangan.
+Project ini dibuat untuk menyelesaikan tugas besar dari mata kuliah yang saya ambil pada semester ke-3 sampai 4.
+Memilih tema ini untuk tugas besar karena menurut saya permainan domino sangat umum dan banyak digemari oleh seluruh kalangan.
 Tema ini menarik karena menunjukan cara lain dalam memainkan domino yaitu, menggunakan algoritma brute force dan greedy.
-Apakah bisa diselesaikan? Menarik bukan, mari kita lihat metode nya!
+Apakah bisa diselesaikan? dan Bagaimana caranya? Menarik bukan, mari kita lihat metode nya!
 
 Metode yang digunakan pada permainan domino ini ialah algoritma dasar yaitu algoritma Brute Force dan algoritma Greedy.
 
